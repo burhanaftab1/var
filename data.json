@@ -1,0 +1,12 @@
+{
+    "Date": {"0": "2024-10-20", "1": "2024-10-21"},
+    "Headset": {"0": "Oculus", "1": "HTC"},
+    "Location": {"0": "Room1", "1": "Room2"},
+    "VrVersion": {"0": "1.1", "1": "1.2"},
+    "TenseRelaxedPre": {"0": "5", "1": "4"},
+    "TenseRelaxedPost": {"0": "3", "1": "2"},
+    "AnxiousCalmPre": {"0": "6", "1": "5"},
+    "AnxiousCalmPost": {"0": "4", "1": "3"},
+    "DispiritedEmpoweredPre": {"0": "7", "1": "6"},
+    "DispiritedEmpoweredPost": {"0": "5", "1": "4"}
+}
